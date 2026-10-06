@@ -2,7 +2,7 @@
 
 AlphaTrades is a full-stack, data-driven fintech trading platform inspired by Zerodha. Built using the **MERN stack**, this application focuses on secure user authentication, high-performance dashboard states, and real-time order execution.
 
-🌐 **[Live Demo Link]** | 📁 **[Backend Repository Link - If separated]**
+🌐 **[Live Demo Link -  https://zerodha-frontend-kch5.onrender.com ]** 
 
 ## 🚀 Key Features
 
